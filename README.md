@@ -73,7 +73,7 @@ The script will:
 
 ## 📷 Example Output
 
-> *(Insert GIF or screenshot here showing the prediction continuing when the object disappears)*
+![Kalman Tracking in Action](tracking.mp4)
 
 ---
 
