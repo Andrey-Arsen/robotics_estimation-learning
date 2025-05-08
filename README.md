@@ -73,7 +73,7 @@ The script will:
 
 ## 📷 Example Output
 
-![Kalman Tracking in Action](tracking.mp4)
+![Kalman Tracking in Action](tracking.gif)
 
 ---
 
